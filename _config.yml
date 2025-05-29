@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Faber est suae quisque fortunae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "S.M. Ji"
+name                     : "semin Ji"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/image/Faber_est_suae_quisque_fortunae.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "S.M. Ji"
+  name             : "semin Ji"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be a better person than I was yesterday"
-  location         : "SeongNam, ROK"
-  email            : "sbh3821@snu.ac.kr"
+  location         : "SeongNam, Korea"
+  email            : "semin.ji@lge.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
