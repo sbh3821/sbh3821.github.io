@@ -1,9 +1,9 @@
-# Front Matter
 ---
+layout: post
+date: 2025-06-06
 title: "Jekyll 첫번째 글"
 categories: hobby
 tags: github.io, BlogSetting
-# 목차
 toc: true  
 toc_sticky: true 
 ---
